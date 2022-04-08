@@ -13,7 +13,8 @@ http://www.linkedin.com/in/meganplunkett
 # Education
 ## University of Washington Honors Program (Sept. 2018 - June 2022)
 
-[University of Washington](http://www.washington.edu/)
+[University of Washington](http://www.washington.edu/): 
+B.A. in Geographical Information Sciences, B.A. in Germanics
 
 # Work Experience
 
