@@ -8,14 +8,14 @@ http://www.linkedin.com/in/meganplunkett
 
 # Summary
 
-I qualify for this position, because I have experience with UX/UI technical concepts, such as with web-based softwares, and also with broader design concepts. I possess both the characteristics of a bold leader, and also that of a team player - one who can bring innovative ideas to the table. 
+> I qualify for this position, because I have experience with UX/UI technical concepts, such as with web-based softwares, and also with broader design concepts. I possess both the characteristics of a bold leader, and also that of a team player - one who can bring innovative ideas to the table. 
 
 # Education
 ## University of Washington Honors Program (Sept. 2018 - June 2022)
 
-[University of Washington]http://www.washington.edu
+[University of Washington](http://www.washington.edu/)
 
-# Work Experience (only last 10 years)
+# Work Experience
 
 ## The Calm Classroom- Content Interaction Manager (March 2020 - Present
 
@@ -35,3 +35,5 @@ Sole Content Interaction Manager for The Calm Classroom - a platform dedicated t
 
 - Own small business meganjamesdesigns.
 - Created and sold illustrations in the form of prints, merchandise, and more.
+
+![](flower.jpeg)
