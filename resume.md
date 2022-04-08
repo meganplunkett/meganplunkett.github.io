@@ -2,9 +2,7 @@
 
 mjplunk@uw.edu
 
-http://www.meganjamesplunkett.com
-
-http://www.linkedin.com/in/meganplunkett
+[Find me on Handshake!)](https://app.joinhandshake.com/stu/users/14062564)
 
 # Summary
 
@@ -13,16 +11,16 @@ http://www.linkedin.com/in/meganplunkett
 # Education
 ## University of Washington Honors Program (Sept. 2018 - June 2022)
 
-[University of Washington](http://www.washington.edu/): 
-B.A. in Geographical Information Sciences, B.A. in Germanics
+    [University of Washington](http://www.washington.edu/): 
+    B.A. in Geographical Information Sciences, B.A. in Germanics
 
 # Work Experience
 
 ## The Calm Classroom- Content Interaction Manager (March 2020 - Present
 
-Sole Content Interaction Manager for The Calm Classroom - a platform dedicated to infusing traditional education methods with social emotional learning techniques.
+    Sole Content Interaction Manager for [The Calm Classroom](https://www.instagram.com/thecalmclassroom/) - a platform dedicated to infusing traditional education methods with social emotional learning techniques.
 
-- Increased Instagram following from 25-65k **(160%)** within 18 months
+-  Increased Instagram following from 25-65k **(160%)** within 18 months
 - **500k+** accounts reached monthly through strategic digital branding and insight analysis
 
 ## Self Employed- Airbnb Host (Feb. 2020 - Present)
