@@ -37,4 +37,4 @@ Sole Content Interaction Manager for The Calm Classroom - a platform dedicated t
 - Own small business meganjamesdesigns.
 - Created and sold illustrations in the form of prints, merchandise, and more.
 
-![](flower.jpeg)
+<img  src="flower.jpeg" alt="..." height = 300px />
