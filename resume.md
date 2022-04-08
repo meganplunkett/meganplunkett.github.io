@@ -13,7 +13,7 @@ I qualify for this position, because I have experience with UX/UI technical conc
 # Education
 ## University of Washington Honors Program (Sept. 2018 - June 2022)
 
-University of Washington: http://www.washington.edu
+[University of Washington]http://www.washington.edu
 
 # Work Experience (only last 10 years)
 
