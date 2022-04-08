@@ -16,7 +16,7 @@ B.A. in Geographical Information Sciences, B.A. in Germanics
 
 # Work Experience
 
-## The Calm Classroom- Content Interaction Manager (March 2020 - Present
+## The Calm Classroom- Content Interaction Manager (March 2020 - Present)
 
 Sole Content Interaction Manager for [The Calm Classroom](https://www.instagram.com/thecalmclassroom/) - a platform dedicated to infusing traditional education methods with social emotional learning techniques.
 
@@ -25,14 +25,18 @@ Sole Content Interaction Manager for [The Calm Classroom](https://www.instagram.
 
 ## Self Employed- Airbnb Host (Feb. 2020 - Present)
 
-- Manage an Airbnb in downtown Seattle
-- Monitor online presence (e.g. visuals)
-- Oversee all unit aesthetics, booking processes, cleanings, maintenance, and guest inquiries
-- Maintained a **5-star rating over 2 years, with over 200 stays**
+Host an Airbnb in downtown Seattle.
+
+Responsibilites include:
+1. Monitor online presence (e.g. visuals)
+2. Oversee all unit aesthetics, booking processes, cleanings, maintenance, and guest inquiries
+3. Maintained a **5-star rating over 2 years, with over 200 stays**
 
 ## Small Business Owner, meganjamesdesigns (Jan. 2020 - Present)
 
 - Own small business meganjamesdesigns.
 - Created and sold illustrations in the form of prints, merchandise, and more.
+
+Example of Artwork:
 
 <img  src="flower.jpeg" alt="..." height = 300px />
