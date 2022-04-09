@@ -1,5 +1,4 @@
-# Megan Plunkett 
-
+# Megan Plunkett
 mjplunk@uw.edu
 
 [Find me on Handshake!](https://app.joinhandshake.com/stu/users/14062564)
